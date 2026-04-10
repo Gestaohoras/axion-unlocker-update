@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.0.3",
+    "date": "10/04/2026",
+    "changes": [
+      "[ + ] Adicionado Teste ATT"
+    ]
+  },
+  {
     "version": "1.0.2",
     "date": "10/04/2026",
     "changes": []
