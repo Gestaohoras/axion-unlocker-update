@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.0.1",
+    "date": "10/04/2026",
+    "changes": [
+      "[ + ] Adicionado Modificador de prestigio",
+      "[ + ] Adicionado bhvr session dentro das configurações",
+      "[ + ] Adicionado Nickname Changer (Apenas Epic Games)",
+      "[ * ] Corrigido bug Crash jogo ao usar teia de sangue (Agora não precisa clicar dentro dela apenas abrir e fechar)"
+    ]
+  },
+  {
     "version": "1.0.0",
     "date": "02/04/2026",
     "changes": [
