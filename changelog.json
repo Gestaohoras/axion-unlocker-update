@@ -1,29 +1,9 @@
 [
   {
-    "version": "1.0.4",
-    "date": "10/04/2026",
-    "changes": [
-      "[ + ] Adicionado nada"
-    ]
-  },
-  {
-    "version": "1.0.3",
-    "date": "10/04/2026",
-    "changes": [
-      "[ + ] Adicionado Teste ATT"
-    ]
-  },
-  {
-    "version": "1.0.2",
-    "date": "10/04/2026",
-    "changes": []
-  },
-  {
     "version": "1.0.0",
-    "date": "10/04/2026",
+    "date": "02/04/2026",
     "changes": [
-      "[ + ] Nova feature",
-      "[ * ] Bug corrigido"
+      "[ + ] Integração com servidor dedicado"
     ]
   }
 ]
