@@ -1,7 +1,15 @@
-{
-  "changes": [
-    "[v1.0.0] - Lançamento inicial",
-    "[+] Desbloqueio de skins e DLCs",
-    "[+] Suporte a Xbox e PC"
-  ]
-}
+[
+  {
+    "version": "1.0.2",
+    "date": "10/04/2026",
+    "changes": []
+  },
+  {
+    "version": "1.0.0",
+    "date": "10/04/2026",
+    "changes": [
+      "[ + ] Nova feature",
+      "[ * ] Bug corrigido"
+    ]
+  }
+]
