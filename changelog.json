@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.0.7",
+    "date": "11/04/2026",
+    "changes": [
+      "[ * ] Corrigido bug congelamento da interface ao abrir o jogo"
+    ]
+  },
+  {
     "version": "1.0.5",
     "date": "11/04/2026",
     "changes": [
