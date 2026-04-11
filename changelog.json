@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.0.5",
+    "date": "11/04/2026",
+    "changes": [
+      "[ * ] Corrigido bug \"Erro Servidor\" reset HWID"
+    ]
+  },
+  {
     "version": "1.0.1",
     "date": "10/04/2026",
     "changes": [
