@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.1.1",
+    "date": "19/04/2026",
+    "changes": [
+      "[ + ] Adicionado abertura automatica do jogo",
+      "[ * ] Corrigido problema com certificado agora o unlocker instala automaticamente",
+      "[ * ] Corrigido problema ao ficar sem conexão em navegadores"
+    ]
+  },
+  {
     "version": "1.0.7",
     "date": "11/04/2026",
     "changes": [
