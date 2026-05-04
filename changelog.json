@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.2.7",
+    "date": "04/05/2026",
+    "changes": [
+      "[ - ] Removido Suporte a plataforma Epic Games",
+      "[ - ] Removido Nickname Changer (Epic Games)"
+    ]
+  },
+  {
     "version": "1.2.2",
     "date": "03/05/2026",
     "changes": [
