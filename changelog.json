@@ -1,10 +1,18 @@
 [
   {
+    "version": "1.4.1",
+    "date": "06/05/2026",
+    "changes": [
+      "[ + ] Adicionado Nickname Changer para Ms Store e Epic Games (Visivel apenas do lado do servidor)",
+      "[ / ] Atualizado para ultimo Patch do jogo"
+    ]
+  },
+  {
     "version": "1.2.7",
     "date": "04/05/2026",
     "changes": [
-      "[ - ] Removido Suporte a plataforma Epic Games",
-      "[ - ] Removido Nickname Changer (Epic Games)"
+      "[ - ] Removido Desbloqueio de DLC Epic Games",
+      "[ + ] Adicionado opção para desbloqueio de Loadout e skins (Epic Games)"
     ]
   },
   {
