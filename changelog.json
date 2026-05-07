@@ -3,16 +3,16 @@
     "version": "1.4.1",
     "date": "06/05/2026",
     "changes": [
-      "[ + ] Adicionado Nickname Changer para Ms Store e Epic Games (Visivel apenas do lado do servidor)",
-      "[ / ] Atualizado para ultimo Patch do jogo"
+      "[ + ] Adicionado Nickname Changer (Xbox e Epic Games)",
+      "[ / ] Atualizado para ultimo Patch do jogo (9.6.1)"
     ]
   },
   {
     "version": "1.2.7",
     "date": "04/05/2026",
     "changes": [
-      "[ - ] Removido Desbloqueio de DLC Epic Games",
-      "[ + ] Adicionado opção para desbloqueio de Loadout e skins (Epic Games)"
+      "[ + ] Adicionado nova opção desbloqueio apenas de Loadout e Skins (Epic Games)",
+      "[ ! ] Desativado Desbloqueio de DLC's (Epic Games)"
     ]
   },
   {
@@ -20,8 +20,9 @@
     "date": "03/05/2026",
     "changes": [
       "[ + ] Adicionado Informações da fila (Habilitar Overlay)",
-      "[ + ] Melhorado furtividade do executavel",
-      "[ / ] Atualizado para o ultimo Patch do jogo"
+      "[ + ] Adicionado 2 Modos Bloodweb (Exploit e Prevent)",
+      "[ * ] Melhorado furtividade do executavel",
+      "[ / ] Atualizado para o ultimo Patch do jogo (9.6.0)"
     ]
   },
   {
@@ -36,7 +37,7 @@
     "date": "19/04/2026",
     "changes": [
       "[ + ] Adicionado Checkbox para Prestigio Legado (Ativa e desativa a moldura na fotos dos personagens)",
-      "[ + ] Adicionado Account Spoofer (Permite spoofar visualmente itens do inventario e Moedas do jogo) Apenas Visual"
+      "[ + ] Adicionado Account Spoofer (Permite spoofar visualmente itens do inventario e Moedas do jogo) Apenas Lado Cliente"
     ]
   },
   {
@@ -74,9 +75,6 @@
     "date": "10/04/2026",
     "changes": [
       "[ + ] Adicionado Modificador de prestigio",
-      "[ + ] Adicionado bhvr session dentro das configurações",
-      "[ + ] Adicionado Nickname Changer (Apenas Epic Games)",
-      "[ * ] Corrigido bug Crash jogo ao usar teia de sangue (Agora não precisa clicar dentro dela apenas abrir e fechar)"
     ]
   },
   {
