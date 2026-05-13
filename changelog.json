@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.5.0",
+    "date": "13/05/2026",
+    "changes": [
+      "[ + ] Adicionado Removedor de censura Xbox (Recurso em teste)",
+      "[ + ] Adicionado Nova opção Edit Character"
+    ]
+  },
+  {
     "version": "1.4.9",
     "date": "12/05/2026",
     "changes": [
