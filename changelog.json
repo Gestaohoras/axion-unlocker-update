@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.5.3",
+    "date": "18/05/2026",
+    "changes": [
+      "[ + ] Adicionado nova opção no desbloqueio (Risky Outfits) Camisas Twitch, Legacy e outros arriscados. Marque esta opção para desbloquear essas skins."
+    ]
+  },
+  {
     "version": "1.5.0",
     "date": "13/05/2026",
     "changes": [
