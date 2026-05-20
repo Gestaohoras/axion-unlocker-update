@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.5.4",
+    "date": "20/05/2026",
+    "changes": [
+      "[ * ] Corrigido erro (Application Not Owned) que aparecia ao abrir o jogo pela Epic Games",
+      "[ * ] Corrigido bug onde ao encerrar o unlocker o jogo não era fechado junto ( Agora funciona)",
+      "[ * ] Aprimorado a função Risky agora renomeada para Risk Outifits and Items"
+    ]
+  },
+  {
     "version": "1.5.3",
     "date": "18/05/2026",
     "changes": [
