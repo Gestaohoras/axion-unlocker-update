@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.5.5",
+    "date": "21/05/2026",
+    "changes": [
+      "[ * ] Corrigido problema no desbloqueio de Banners e Cards",
+      "[ * ] Corrigido problema no desbloqueio de skins",
+      "[ - ] Removido opção de desbloqueio de Cards e Banners"
+    ]
+  },
+  {
     "version": "1.5.4",
     "date": "20/05/2026",
     "changes": [
