@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.5.7",
+    "date": "22/05/2026",
+    "changes": [
+      "[ / ] Atualizado componentes internos"
+    ]
+  },
+  {
     "version": "1.5.5",
     "date": "21/05/2026",
     "changes": [
