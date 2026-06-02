@@ -3,7 +3,7 @@
     "version": "1.0.4",
     "date": "01/06/2026",
     "changes": [
-      "[ + ] Adicionado verificador de Proxy ( Se o proxy estiver ativado o unlocker vai solicitar que seja fechado para continuar)"
+      "[ ! ] Fatal error: failed to load module 'axion.core' (0xC000007B)"
     ]
   },
   {
