@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.0.6",
+    "date": "03/06/2026",
+    "changes": [
+      "[ * ] Corrigido bug Epic Games onde ao comprar DLC's pela loja o unlocker estava bloqueando (Agora funciona corretamente)"
+    ]
+  },
+  {
     "version": "1.0.4",
     "date": "01/06/2026",
     "changes": [
