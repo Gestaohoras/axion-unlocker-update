@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.0.8",
+    "date": "04/06/2026",
+    "changes": [
+      "[ + ] Adicionado Cross-hair (Mira Visual)"
+    ]
+  },
+  {
     "version": "1.0.7",
     "date": "04/06/2026",
     "changes": [
