@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.0.7",
+    "date": "04/06/2026",
+    "changes": [
+      "[ * ] Aprimorado o sistema de HWID do unlocker"
+    ]
+  },
+  {
     "version": "1.0.6",
     "date": "03/06/2026",
     "changes": [
