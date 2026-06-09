@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.1.1",
+    "date": "09/06/2026",
+    "changes": [
+      "[ * ] Corrigido problema com Overlays não aparecendo na plataforma Epic Games",
+      "[ ! ] Desativado temporariamente Prevent Bloodweb (Está crashando o jogo em alguns momentos, será retrabalhado)"
+    ]
+  },
+  {
     "version": "1.1.0",
     "date": "09/06/2026",
     "changes": [
