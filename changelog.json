@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.1.0",
+    "date": "09/06/2026",
+    "changes": [
+      "[ + ] Adicionado Auto Skill Check (Ainda é uma versão BETA)",
+      "[ * ] Aprimordoa o visual da Interface do Usuário"
+    ]
+  },
+  {
     "version": "1.0.8",
     "date": "04/06/2026",
     "changes": [
