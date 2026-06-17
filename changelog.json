@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.1.2",
+    "date": "16/06/2026",
+    "changes": [
+      "[ * ] Corrigido Atualizado para o ultimo Patch do jogo (Versão 10.0.0)",
+      "[ ! ] Desativado temporariamente Recursos Beta ( Auto Skill Check)"
+    ]
+  },
+  {
     "version": "1.1.1",
     "date": "09/06/2026",
     "changes": [
