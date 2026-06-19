@@ -1,10 +1,18 @@
 [
   {
+    "version": "1.1.3",
+    "date": "19/06/2026",
+    "changes": [
+      "[ * ] Corrigido bug onde não era possivel definir os valores para o Spoofer da Conta",
+      "[ * ] Corrigido bug onde a moldura legado estava sendo aplicada para perosnagens que voce não possuia (Epic Games)"
+    ]
+  },
+  {
     "version": "1.1.2",
     "date": "16/06/2026",
     "changes": [
-      "[ * ] Corrigido Atualizado para o ultimo Patch do jogo (Versão 10.0.0)",
-      "[ ! ] Desativado temporariamente Recursos Beta ( Auto Skill Check)"
+      "[ * ] Atualizado para o ultimo Patch do jogo (Versão 10.0.0)",
+      "[ ! ] Desativado temporariamente Recursos Beta (Auto Skill Check)"
     ]
   },
   {
