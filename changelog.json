@@ -3,7 +3,7 @@
     "version": "1.1.4",
     "date": "20/06/2026",
     "changes": [
-      "[ * ] Corrigido onde não era possivel definir os valores para o prestigio individual (Adicionado modo Slider)"
+      "[ * ] Corrigido bug onde não era possivel definir os valores para o prestigio individual (Adicionado modo Slider)"
     ]
   },
   {
