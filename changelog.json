@@ -1,11 +1,18 @@
 [
   {
+    "version": "1.1.8",
+    "date": "01/07/2026",
+    "changes": [
+      "[ + ] Adicionado captura e exibição da API Key"
+    ]
+  },
+  {
     "version": "1.1.7",
     "date": "25/06/2026",
     "changes": [
       "[ / ] Atualizado loja/inventario",
-      "[ + ] Adicionado no Spoofer as moedas do evento",
-      "[ - ] Removido Recursos beta (Auto Skillcheck)"
+      "[ + ] Adicionado moedas do evento no Spoofer Account",
+      "[ - ] Removido Recurso (Auto Skillcheck)"
     ]
   },
   {
