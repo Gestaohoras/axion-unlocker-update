@@ -1,5 +1,12 @@
 [
   {
+    "version": "2.0.1",
+    "date": "23/07/2026",
+    "changes": [
+      "[ * ] Corrigido erro 404 que estava acontecendo após a ultima atualização"
+    ]
+  },
+  {
     "version": "2.0.0",
     "date": "23/07/2026",
     "changes": [
