@@ -1,5 +1,31 @@
 [
   {
+    "version": "3.0.0",
+    "date": "26/08/2026",
+    "changes": [
+      "[ / ] Atualizado para a versão 10.1.0",
+      "[ + ] Adicionado capitulo Chorus Of Sin",
+      "[ * ] Nova interface, totalmente redesenhada",
+      "[ + ] Adicionado login via autenticação Discord",
+      "[ / ] Melhorado desempenho da ferramenta",
+      "[ / ] Atualizado as opções de Desbloqueio",
+      "[ * ] Aprimorado a segurança no desbloqueio de DLC's (Ms Store)",
+      "[ ↳ ] Agora para desbloquear Personagens que você não possui é necessário marcar o checkbox",
+      "[ ↳ ] Para desbloquear Skins também é necessário marcar o checkbox",
+      "[ + ] Adicionado banners para personalização do perfil unlocker",
+      "[ + ] Adicionado recurso Favoritar Amigos",
+      "[ ↳ ] Cada perfil possui um código de amigo envie para outra pessoa que usa o unlocker e ela pode te adicionar aos amigos favoritos, se mudar de conta o unlocker não precisará informar o cloud id novamente o unlocker irá detectar e você pode adicionar direto pelo Friends Manager",
+      "[ + ] Adicionada nova tela para personalização do prestigio de cada personagem",
+      "[ + ] Adicionada a opção para setar uma tecla para exibir ou ocultar a interface",
+      "[ + ] Adicionado a personalização da cor do Cross-hair através do código Hex",
+      "[ + ] Adicionado exibição de pontos quando quitar de uma partida",
+      "[ + ] Adicionado como opção o Clear License",
+      "[ ↳ ] Se você está recebendo o Erro de licença suspensa na Ms Store ou Steam você pode usar o limpador de rastros para contornar esse erro e conseguir jogar em uma nova conta",
+      "[ 🡢 ] Vocês vão ver a opção Loadout (Ainda está em desenvolvimento e será finalizada em breve)",
+      "[ 🡢 ] Na primeira vez que executar ele vai precisar extrair algumas DLLs e isso pode demorar um pouco, porém e só a primeira vez"
+    ]
+  },
+  {
     "version": "2.0.2",
     "date": "05/08/2026",
     "changes": [
