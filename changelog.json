@@ -1,195 +1,266 @@
 [
   {
+    "version": "3.0.1",
+    "date": "01/09/2026",
+    "sections": {
+      "Update Patch": [
+        {
+          "tipo": "Atualização Patch",
+          "texto": "Versão Jogo 10.1.1",
+          "badges": [
+            {
+              "label": "Atualização Patch",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Novos Recursos": [
+        {
+          "tipo": "Adicionado",
+          "texto": "Loadout Manager",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Unlocker": [
+        {
+          "tipo": "Adicionado",
+          "texto": "Notificação visual ao termino da partida para abrir a Bloodweb para restaurar o Loadout",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Removido",
+          "texto": "Recurso Auto-Clique",
+          "badges": [
+            {
+              "label": "Removido",
+              "color": "#ef4444"
+            }
+          ]
+        }
+      ],
+      "Bug Fix": [
+        {
+          "tipo": "Corrigido",
+          "texto": "Bug de sincronização Favoritar Amigos",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Corrigido",
+          "texto": "Bug na seleção dos personagens para personalizar prestigio",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Corrigido",
+          "texto": "Bug no spoofer inventario onde ele estava randomizando nivel das perks",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Segurança": [
+        {
+          "tipo": "Nova Validação",
+          "texto": "Agora e necessario possui o cargo de cliente para acessar o serviços",
+          "badges": [
+            {
+              "label": "Nova Validação",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.0",
     "date": "26/08/2026",
-    "changes": [
-      "[ / ] Atualizado para a versão 10.1.0",
-      "[ + ] Adicionado capitulo Chorus Of Sin",
-      "[ * ] Nova interface, totalmente redesenhada",
-      "[ + ] Adicionado login via autenticação Discord",
-      "[ / ] Melhorado desempenho da ferramenta",
-      "[ / ] Atualizado as opções de Desbloqueio",
-      "[ * ] Aprimorado a segurança no desbloqueio de DLC's (Ms Store)",
-      "[ ↳ ] Agora para desbloquear Personagens que você não possui é necessário marcar o checkbox",
-      "[ ↳ ] Para desbloquear Skins também é necessário marcar o checkbox",
-      "[ + ] Adicionado banners para personalização do perfil unlocker",
-      "[ + ] Adicionado recurso Favoritar Amigos",
-      "[ ↳ ] Cada perfil possui um código de amigo envie para outra pessoa que usa o unlocker e ela pode te adicionar aos amigos favoritos, se mudar de conta o unlocker não precisará informar o cloud id novamente o unlocker irá detectar e você pode adicionar direto pelo Friends Manager",
-      "[ + ] Adicionada nova tela para personalização do prestigio de cada personagem",
-      "[ + ] Adicionada a opção para setar uma tecla para exibir ou ocultar a interface",
-      "[ + ] Adicionado a personalização da cor do Cross-hair através do código Hex",
-      "[ + ] Adicionado exibição de pontos quando quitar de uma partida",
-      "[ + ] Adicionado como opção o Clear License",
-      "[ ↳ ] Se você está recebendo o Erro de licença suspensa na Ms Store ou Steam você pode usar o limpador de rastros para contornar esse erro e conseguir jogar em uma nova conta",
-      "[ 🡢 ] Vocês vão ver a opção Loadout (Ainda está em desenvolvimento e será finalizada em breve)",
-      "[ 🡢 ] Na primeira vez que executar ele vai precisar extrair algumas DLLs e isso pode demorar um pouco, porém e só a primeira vez"
-    ]
-  },
-  {
-    "version": "2.0.2",
-    "date": "05/08/2026",
-    "changes": [
-      "[ * ] Corrigido Erro ao obter HWID em certas versões do Windows"
-    ]
-  },
-  {
-    "version": "2.0.1",
-    "date": "23/07/2026",
-    "changes": [
-      "[ * ] Corrigido erro 404 que estava acontecendo após a ultima atualização"
-    ]
-  },
-  {
-    "version": "2.0.0",
-    "date": "23/07/2026",
-    "changes": [
-      "[ + ] Adicionado Moonwalk Assistant",
-      "[ + ] Adicionado Zoom para o Cross-hair",
-      "[ * ] Reativado recurso Auto Skillcheck",
-      "[ * ] Reativado recurso Auto Wiggle"
-    ]
-  },
-  {
-    "version": "1.1.12",
-    "date": "21/07/2026",
-    "changes": [
-      "[ / ] Atualizado para Patch 10.0.3",
-      "[ / ] Atualizado loja para Passe Sunflesh",
-      "[ + ] Adicionado Skins moletom dos desenvolvedores (Risky Outfits)",
-      "[ * ] Oferendas e Itens do 10º Aniversario movidas para (Risky)"
-    ]
-  },
-  {
-    "version": "1.1.11",
-    "date": "15/07/2026",
-    "changes": [
-      "[ + ] Atualizado Loja",
-      "[ / ] Reativado Prevent Bloodweb"
-    ]
-  },
-  {
-    "version": "1.1.10",
-    "date": "06/07/2026",
-    "changes": [
-      "[ / ] Atualizado compatibilidade com patch 10.0.2"
-    ]
-  },
-  {
-    "version": "1.1.9",
-    "date": "03/07/2026",
-    "changes": [
-      "[ / ] Atualizado estruturas internas"
-    ]
-  },
-  {
-    "version": "1.1.8",
-    "date": "01/07/2026",
-    "changes": [
-      "[ + ] Adicionado captura e exibição da API Key"
-    ]
-  },
-  {
-    "version": "1.1.7",
-    "date": "25/06/2026",
-    "changes": [
-      "[ / ] Atualizado loja/inventario",
-      "[ + ] Adicionado moedas do evento no Spoofer Account",
-      "[ - ] Removido Recurso (Auto Skillcheck)"
-    ]
-  },
-  {
-    "version": "1.1.6",
-    "date": "23/06/2026",
-    "changes": [
-      "[ / ] Atualizado para ultimo Patch do jogo (10.0.1)"
-    ]
-  },
-  {
-    "version": "1.1.4",
-    "date": "20/06/2026",
-    "changes": [
-      "[ * ] Corrigido bug onde não era possivel definir os valores para o prestigio individual (Adicionado modo Slider)"
-    ]
-  },
-  {
-    "version": "1.1.3",
-    "date": "19/06/2026",
-    "changes": [
-      "[ * ] Corrigido bug onde não era possivel definir os valores para o Spoofer da Conta",
-      "[ * ] Corrigido bug onde a moldura legado estava sendo aplicada para personagens que voce não possuia (Epic Games)"
-    ]
-  },
-  {
-    "version": "1.1.2",
-    "date": "16/06/2026",
-    "changes": [
-      "[ * ] Atualizado para o ultimo Patch do jogo (Versão 10.0.0)",
-      "[ ! ] Desativado temporariamente Recursos Beta (Auto Skill Check)"
-    ]
-  },
-  {
-    "version": "1.1.1",
-    "date": "09/06/2026",
-    "changes": [
-      "[ * ] Corrigido problema com Overlays não aparecendo na plataforma Epic Games",
-      "[ ! ] Desativado temporariamente Prevent Bloodweb (Está crashando o jogo em alguns momentos, será retrabalhado)"
-    ]
-  },
-  {
-    "version": "1.1.0",
-    "date": "09/06/2026",
-    "changes": [
-      "[ + ] Adicionado Auto Skill Check (Ainda é uma versão BETA)",
-      "[ * ] Aprimordoa o visual da Interface do Usuário"
-    ]
-  },
-  {
-    "version": "1.0.8",
-    "date": "04/06/2026",
-    "changes": [
-      "[ + ] Adicionado Cross-hair (Mira Visual)"
-    ]
-  },
-  {
-    "version": "1.0.7",
-    "date": "04/06/2026",
-    "changes": [
-      "[ * ] Aprimorado o sistema de HWID do unlocker"
-    ]
-  },
-  {
-    "version": "1.0.6",
-    "date": "03/06/2026",
-    "changes": [
-      "[ * ] Corrigido bug Epic Games onde ao comprar DLC's pela loja o unlocker estava bloqueando (Agora funciona corretamente)"
-    ]
-  },
-  {
-    "version": "1.0.4",
-    "date": "01/06/2026",
-    "changes": [
-      "[ ! ] Fatal error: failed to load module 'axion.core' (0xC000007B)"
-    ]
-  },
-  {
-    "version": "1.0.2",
-    "date": "25/05/2026",
-    "changes": [
-      "[ * ] Corrigido problema com desbloqueio do killer Espectro e Surv David King na plataforma Epic Games"
-    ]
-  },
-  {
-    "version": "1.0.1",
-    "date": "25/05/2026",
-    "changes": [
-      "[ * ] Corrigido Comunicação com Back-end"
-    ]
-  },
-  {
-    "version": "1.0.0",
-    "date": "25/05/2026",
-    "changes": [
-      "[ + ] Integração Servidor Dedicado"
-    ]
+    "sections": {
+      "Update Patch": [
+        {
+          "tipo": "Atualização Patch",
+          "texto": "Versão Jogo 10.1.0",
+          "badges": [
+            {
+              "label": "Atualização Patch",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Nova DLC",
+          "texto": "Chorus Of Sin",
+          "badges": [
+            {
+              "label": "Nova DLC",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Segurança": [
+        {
+          "tipo": "Adicionado",
+          "texto": "Autententicação Discord Account",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Unlocker": [
+        {
+          "tipo": "Adicionado",
+          "texto": "Exibição dos pontos de desconexão",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Trava desbloqueio DLC Ms Store",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Trava no desbloqueio de Skins",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "A personalização da cor do Cross-hair através do código Hex",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Aprimorado",
+          "texto": "Tela de personalização de Prestigio personagens",
+          "badges": [
+            {
+              "label": "Aprimorado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Novos Recursos": [
+        {
+          "tipo": "Adicionado",
+          "texto": "Recurso Favoritar Amigos",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Clear License (Limpeza completa de traços Xbox ou Steam)",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Interface": [
+        {
+          "tipo": "Adicionado",
+          "texto": "Personalização banner por perfil usuario unlocker",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Aprimorado",
+          "texto": "Designer da UI",
+          "badges": [
+            {
+              "label": "Aprimorado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Personalização banner por perfil usuario unlocker",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": [],
+      "Bug Fix": []
+    }
   }
 ]
