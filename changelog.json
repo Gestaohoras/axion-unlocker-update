@@ -1,5 +1,38 @@
 [
   {
+    "version": "3.0.2",
+    "date": "04/09/2026",
+    "sections": {
+      "Bug Fix": [
+        {
+          "tipo": "Corrigido",
+          "texto": "Bug de sincronização Visual tabela Favoritar Amigos",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Patch": [],
+      "Novos Recursos": [],
+      "Update Unlocker": [],
+      "Segurança": [],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.1",
     "date": "01/09/2026",
     "sections": {
