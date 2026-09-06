@@ -1,5 +1,48 @@
 [
   {
+    "version": "3.0.3",
+    "date": "06/09/2026",
+    "sections": {
+      "Bug Fix": [
+        {
+          "tipo": "Corrigido",
+          "texto": "Erro Bloodweb Error ao usar o recurso Locked Bloodweb",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Bug onde as informações da fila não estavam sendo exibidas agora mostram corretamente",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Patch": [],
+      "Novos Recursos": [],
+      "Update Unlocker": [],
+      "Segurança": [],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.2",
     "date": "04/09/2026",
     "sections": {
