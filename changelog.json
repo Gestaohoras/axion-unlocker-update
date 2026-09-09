@@ -1,5 +1,38 @@
 [
   {
+    "version": "3.0.4",
+    "date": "09/09/2026",
+    "sections": {
+      "Bug Fix": [
+        {
+          "tipo": "Atualização Patch",
+          "texto": "Versão Jogo 10.1.2",
+          "badges": [
+            {
+              "label": "Atualização Patch",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Patch": [],
+      "Novos Recursos": [],
+      "Update Unlocker": [],
+      "Segurança": [],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.3",
     "date": "06/09/2026",
     "sections": {
@@ -15,11 +48,11 @@
           ]
         },
         {
-          "tipo": "Adicionado",
+          "tipo": "Corrigido",
           "texto": "Bug onde as informações da fila não estavam sendo exibidas agora mostram corretamente",
           "badges": [
             {
-              "label": "Adicionado",
+              "label": "Corrigido",
               "color": "#0055ff"
             }
           ]
