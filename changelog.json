@@ -1,8 +1,63 @@
 [
   {
+    "version": "3.0.7",
+    "date": "13/09/2026",
+    "sections": {
+      "Bug Fix": [
+        {
+          "tipo": "Corrigido",
+          "texto": "Bug com travamento aleatorio no carregamento do jogo",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Unlocker": [],
+      "Update Patch": [],
+      "Novos Recursos": [],
+      "Segurança": [],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.6",
     "date": "13/09/2026",
     "sections": {
+      "Update Unlocker": [
+        {
+          "tipo": "Adicionado",
+          "texto": "Botão para avançar ou retornar entre os presets do Loadout",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Contador de partidas jogadas dentro da sessão atual",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
       "Bug Fix": [
         {
           "tipo": "Corrigido",
@@ -25,7 +80,6 @@
           ]
         }
       ],
-      "Update Unlocker": [],
       "Update Patch": [],
       "Novos Recursos": [],
       "Segurança": [],
