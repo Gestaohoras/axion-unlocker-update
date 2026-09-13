@@ -1,5 +1,58 @@
 [
   {
+    "version": "3.0.5",
+    "date": "12/09/2026",
+    "sections": {
+      "Update Unlocker": [
+        {
+          "tipo": "Adicionado",
+          "texto": "Presets para o Loadout",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Aprimorado",
+          "texto": "Descrição das perks agora é possivel filtrar pelo nome do Personagem",
+          "badges": [
+            {
+              "label": "Aprimorado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Aprimorado",
+          "texto": "Aba Hotkeys e Info. Fila (Agora é possivel arrastar eles na tela)",
+          "badges": [
+            {
+              "label": "Aprimorado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Bug Fix": [],
+      "Update Patch": [],
+      "Novos Recursos": [],
+      "Segurança": [],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.4",
     "date": "09/09/2026",
     "sections": {
