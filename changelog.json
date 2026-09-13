@@ -1,5 +1,48 @@
 [
   {
+    "version": "3.0.6",
+    "date": "13/09/2026",
+    "sections": {
+      "Bug Fix": [
+        {
+          "tipo": "Corrigido",
+          "texto": "Bug erro 401 no recurso Friends Manager",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Corrigido",
+          "texto": "Bug no nome dos killers incorretos na descrição das perks Loadout",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Unlocker": [],
+      "Update Patch": [],
+      "Novos Recursos": [],
+      "Segurança": [],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.5",
     "date": "12/09/2026",
     "sections": {
