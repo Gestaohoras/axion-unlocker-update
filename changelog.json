@@ -1,5 +1,59 @@
 [
   {
+    "version": "3.0.8",
+    "date": "16/09/2026",
+    "sections": {
+      "Segurança": [
+        {
+          "tipo": "Corrigido",
+          "texto": "Problema com erro 0xE101 que estava sendo aplicado da maneira incorreta",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Aprimorado",
+          "texto": "A furtividade do unlocker",
+          "badges": [
+            {
+              "label": "Aprimorado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Bug Fix": [
+        {
+          "tipo": "Corrigido",
+          "texto": "Bug com a notificação da Bloodweb agora ele não trava mais",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Unlocker": [],
+      "Update Patch": [],
+      "Novos Recursos": [],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.7",
     "date": "13/09/2026",
     "sections": {
