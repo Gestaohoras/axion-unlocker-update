@@ -1,5 +1,39 @@
 [
   {
+    "version": "3.0.10",
+    "date": "17/09/2026",
+    "sections": {
+      "Update Unlocker": [
+        {
+          "tipo": "Atualizado",
+          "texto": "Estruturas internas (Otimização de desempenho)",
+          "badges": [
+            {
+              "label": "Atualizado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Features": [],
+      "Segurança": [],
+      "Bug Fix": [],
+      "Update Patch": [],
+      "Novos Recursos": [],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.9",
     "date": "17/09/2026",
     "sections": {
