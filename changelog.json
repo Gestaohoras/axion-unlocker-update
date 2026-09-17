@@ -1,5 +1,39 @@
 [
   {
+    "version": "3.0.9",
+    "date": "17/09/2026",
+    "sections": {
+      "Update Features": [
+        {
+          "tipo": "Aprimorado",
+          "texto": "Auto Skillcheck (Agora deve funcionar melhor para a perk DS mesmo com delay habilitado)",
+          "badges": [
+            {
+              "label": "Aprimorado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Segurança": [],
+      "Bug Fix": [],
+      "Update Unlocker": [],
+      "Update Patch": [],
+      "Novos Recursos": [],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.8",
     "date": "16/09/2026",
     "sections": {
