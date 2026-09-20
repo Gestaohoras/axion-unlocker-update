@@ -1,5 +1,60 @@
 [
   {
+    "version": "3.0.11",
+    "date": "20/09/2026",
+    "sections": {
+      "Novos Recursos": [
+        {
+          "tipo": "Adicionado",
+          "texto": "Desbloqueador Desafio Tomos",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Features": [
+        {
+          "tipo": "Aprimorado",
+          "texto": "Recurso de desativação de logs da BHVR agora ele desativa mais dados",
+          "badges": [
+            {
+              "label": "Aprimorado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Aprimorado",
+          "texto": "Recurso Removedor de censura chat Xbox",
+          "badges": [
+            {
+              "label": "Aprimorado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Unlocker": [],
+      "Segurança": [],
+      "Bug Fix": [],
+      "Update Patch": [],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.10",
     "date": "17/09/2026",
     "sections": {
