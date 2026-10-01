@@ -1,5 +1,39 @@
 [
   {
+    "version": "3.0.12",
+    "date": "01/10/2026",
+    "sections": {
+      "Bug Fix": [
+        {
+          "tipo": "Corrigido",
+          "texto": "Bug no sistema de HWID",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Novos Recursos": [],
+      "Update Features": [],
+      "Update Unlocker": [],
+      "Segurança": [],
+      "Update Patch": [],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.11",
     "date": "20/09/2026",
     "sections": {
