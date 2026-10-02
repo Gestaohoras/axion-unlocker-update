@@ -1,5 +1,39 @@
 [
   {
+    "version": "3.0.13",
+    "date": "01/10/2026",
+    "sections": {
+      "Update Unlocker": [
+        {
+          "tipo": "Adicionado",
+          "texto": "Ultimos cosmeticos lançados",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Bug Fix": [],
+      "Novos Recursos": [],
+      "Update Features": [],
+      "Segurança": [],
+      "Update Patch": [],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.12",
     "date": "01/10/2026",
     "sections": {
