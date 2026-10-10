@@ -1,5 +1,39 @@
 [
   {
+    "version": "3.0.14",
+    "date": "09/10/2026",
+    "sections": {
+      "Bug Fix": [
+        {
+          "tipo": "Corrigido",
+          "texto": "Bug onde não estava exibindo os logs e nem o aviso ao completar o desafio Tomos",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Unlocker": [],
+      "Novos Recursos": [],
+      "Update Features": [],
+      "Segurança": [],
+      "Update Patch": [],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.13",
     "date": "01/10/2026",
     "sections": {
