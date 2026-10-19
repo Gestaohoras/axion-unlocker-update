@@ -1,5 +1,40 @@
 [
   {
+    "version": "3.0.15",
+    "date": "19/10/2026",
+    "sections": {
+      "Desativado": [
+        {
+          "tipo": "Desativado",
+          "texto": "Locked Bloodweb (Problemas serios encontrados)",
+          "badges": [
+            {
+              "label": "Desativado",
+              "color": "#f97316"
+            }
+          ]
+        }
+      ],
+      "Bug Fix": [],
+      "Update Unlocker": [],
+      "Novos Recursos": [],
+      "Update Features": [],
+      "Segurança": [],
+      "Update Patch": [],
+      "Update Interface": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.14",
     "date": "09/10/2026",
     "sections": {
@@ -30,7 +65,8 @@
       "Interface": [],
       "Removido / Desativado": [],
       "Experimental": [],
-      "Notas": []
+      "Notas": [],
+      "Desativado": []
     }
   },
   {
