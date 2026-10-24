@@ -1,5 +1,237 @@
 [
   {
+    "version": "4.0.0",
+    "date": "24/10/2026",
+    "sections": {
+      "Novos Recursos": [
+        {
+          "tipo": "Adicionado",
+          "texto": "Injetor Permanente de Prestígio",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Unreleased Skins",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Spoofer Lobby",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Item Killswitch Bypass",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Crash Lobby",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Exibição da latência do servidor da partida",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Auto Hacking Drone",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Spoofer (Rank, Level, Devotion)",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Presence Spoofer",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Performance": [
+        {
+          "tipo": "Aprimorado",
+          "texto": "O sistema de inicialização agora ele está otimizado",
+          "badges": [
+            {
+              "label": "Aprimorado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Desativado": [],
+      "Bug Fix": [
+        {
+          "tipo": "Corrigido",
+          "texto": "Nickname Changer",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Corrigido",
+          "texto": "Locked Bloodweb",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Corrigido",
+          "texto": "Rich Presence",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Unlocker": [],
+      "Update Features": [
+        {
+          "tipo": "Aprimorado",
+          "texto": "Auto Skillcheck agora conta com o modo Doctor",
+          "badges": [
+            {
+              "label": "Aprimorado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Aprimorado",
+          "texto": "Auto Wiggle agora mais eficiente",
+          "badges": [
+            {
+              "label": "Aprimorado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Aprimorado",
+          "texto": "Cross-hair com novas miras e UI melhorada",
+          "badges": [
+            {
+              "label": "Aprimorado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Segurança": [],
+      "Update Patch": [],
+      "Update Interface": [
+        {
+          "tipo": "Aprimorado",
+          "texto": "Visual do loader reformulado",
+          "badges": [
+            {
+              "label": "Aprimorado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Temas para personalizar a interface com outras cores",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Sistema de Recompensas": [
+        {
+          "tipo": "Adicionado",
+          "texto": "Cheese Coins (moedas internas do Unlocker)",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        },
+        {
+          "tipo": "Adicionado",
+          "texto": "Sistema Venda com indicação (Ganhe recompensa por isso)",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Removido / Desativado": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "3.0.15",
     "date": "19/10/2026",
     "sections": {
