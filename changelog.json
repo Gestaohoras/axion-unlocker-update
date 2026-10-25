@@ -1,5 +1,42 @@
 [
   {
+    "version": "4.0.3",
+    "date": "25/10/2026",
+    "sections": {
+      "Removido / Desativado": [
+        {
+          "tipo": "Removido",
+          "texto": "Recurso Locked Bloodweb",
+          "badges": [
+            {
+              "label": "Removido",
+              "color": "#ef4444"
+            }
+          ]
+        }
+      ],
+      "Novos Recursos": [],
+      "Performance": [],
+      "Desativado": [],
+      "Bug Fix": [],
+      "Update Unlocker": [],
+      "Update Features": [],
+      "Segurança": [],
+      "Update Patch": [],
+      "Update Interface": [],
+      "Sistema de Recompensas": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "4.0.0",
     "date": "24/10/2026",
     "sections": {
