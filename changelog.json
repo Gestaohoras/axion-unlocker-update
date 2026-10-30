@@ -1,5 +1,64 @@
 [
   {
+    "version": "4.0.6",
+    "date": "30/10/2026",
+    "sections": {
+      "Novos Recursos": [
+        {
+          "tipo": "Adicionado",
+          "texto": "Injetor Permanente de Skins Legacy",
+          "badges": [
+            {
+              "label": "Adicionado",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Bug Fix": [
+        {
+          "tipo": "Corrigido",
+          "texto": "Bug onde ao abrir a bloodweb os itens poderiam sumir",
+          "badges": [
+            {
+              "label": "Corrigido",
+              "color": "#0055ff"
+            }
+          ]
+        }
+      ],
+      "Update Features": [
+        {
+          "tipo": "Indisponível",
+          "texto": "Injetor Permanente Plataforma Steam",
+          "badges": [
+            {
+              "label": "Indisponível",
+              "color": "#ff5500"
+            }
+          ]
+        }
+      ],
+      "Removido / Desativado": [],
+      "Performance": [],
+      "Desativado": [],
+      "Update Unlocker": [],
+      "Segurança": [],
+      "Update Patch": [],
+      "Update Interface": [],
+      "Sistema de Recompensas": [],
+      "Engine": [],
+      "Geral": [],
+      "Novidades": [],
+      "Correções": [],
+      "Ajustes": [],
+      "Desempenho": [],
+      "Interface": [],
+      "Experimental": [],
+      "Notas": []
+    }
+  },
+  {
     "version": "4.0.3",
     "date": "25/10/2026",
     "sections": {
